@@ -1,7 +1,7 @@
 # Jsmpeg play demo in React
 
 - This project was basically hookized from the other [demo project](https://github.com/cycjimmy/react-jsmpeg-player-demo)
-- 
+- [Preview demo](https://lidingyu0510.github.io/demo-react-jsmpeg/)
 
 ## Available Scripts
 
