@@ -2,6 +2,7 @@
   "name": "demo-react-jsmpegplayer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lidingyu0510.github.io/demo-react-jsmpeg/",
   "dependencies": {
     "@cycjimmy/jsmpeg-player": "^6.0.5",
     "@testing-library/jest-dom": "^5.16.5",
