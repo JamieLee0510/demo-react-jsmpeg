@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demo-react-jsmpeg/static/css/main.77739fb0.css",
+    "main.js": "/demo-react-jsmpeg/static/js/main.3fd9896b.js",
+    "static/js/787.80e33ba4.chunk.js": "/demo-react-jsmpeg/static/js/787.80e33ba4.chunk.js",
+    "index.html": "/demo-react-jsmpeg/index.html",
+    "main.77739fb0.css.map": "/demo-react-jsmpeg/static/css/main.77739fb0.css.map",
+    "main.3fd9896b.js.map": "/demo-react-jsmpeg/static/js/main.3fd9896b.js.map",
+    "787.80e33ba4.chunk.js.map": "/demo-react-jsmpeg/static/js/787.80e33ba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77739fb0.css",
+    "static/js/main.3fd9896b.js"
+  ]
+}
